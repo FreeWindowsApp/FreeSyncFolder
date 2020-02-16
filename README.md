@@ -14,3 +14,7 @@ features：
 
 中文版说明
 https://github.com/FreeWindowsApp/FreeSyncFolder/blob/master/%E4%B8%AD%E6%96%87%E7%89%88%E8%AF%B4%E6%98%8E.md
+
+
+and,Do you want to encrypt the folder?goto:
+https://github.com/FreeWindowsApp/FreeEncryptFolder
