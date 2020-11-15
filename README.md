@@ -1,4 +1,4 @@
-Free Sync Folder
+Free Sync Folder / Backup Folder 
 
 Download address：
 
