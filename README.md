@@ -15,12 +15,12 @@ features：
 
 ![FreeSyncFolder-English-screenshot](https://user-images.githubusercontent.com/58068964/99370152-459f4b80-28f8-11eb-9873-07a0aafaaef6.png)
 
-Official website：
-http://soft.freewindowsapp.com/
 
 中文版说明：
 https://github.com/FreeWindowsApp/FreeSyncFolder/blob/master/%E4%B8%AD%E6%96%87%E7%89%88%E8%AF%B4%E6%98%8E.md
 
+Official website：http://soft.freewindowsapp.com/
 
-and,Do you want to encrypt the folder?goto:
-https://github.com/FreeWindowsApp/FreeEncryptFolder
+and,Do you want to encrypt the folder?go to: https://github.com/FreeWindowsApp/FreeEncryptFolder
+Free Automatic Synchronization Folder / Backup Folder  https://github.com/FreeWindowsApp/FreeSyncFolder
+Free Statistics Folder Size  https://github.com/FreeWindowsApp/FreeStatFolder
