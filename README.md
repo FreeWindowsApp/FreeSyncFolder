@@ -22,5 +22,7 @@ https://github.com/FreeWindowsApp/FreeSyncFolder/blob/master/%E4%B8%AD%E6%96%87%
 Official website：http://soft.freewindowsapp.com/
 
 and,Do you want to encrypt the folder?go to: https://github.com/FreeWindowsApp/FreeEncryptFolder
+
 Free Automatic Synchronization Folder / Backup Folder  https://github.com/FreeWindowsApp/FreeSyncFolder
+
 Free Statistics Folder Size  https://github.com/FreeWindowsApp/FreeStatFolder
